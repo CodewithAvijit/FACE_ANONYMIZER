@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Face Anonymizer</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>Real-Time Face Anonymizer</h1>
+
+    <div class="controls">
+      <label>
+        <input type="checkbox" id="anonymizeSwitch" checked />
+        Anonymize Faces
+      </label>
+      <button id="toggleBtn">Start</button>
+    </div>
+
+    <div class="side-by-side">
+      <div class="video-box">
+        <h2>Live Camera</h2>
+        <video id="video" autoplay muted></video>
+      </div>
+
+      <div class="video-box">
+        <h2>Processed Output</h2>
+        <img id="resultImage" alt="Anonymized Output" />
+      </div>
+    </div>
+
+    <canvas id="canvas" style="display:none;"></canvas>
+
+    <script src="script.js"></script>
+  </div>
+</body>
+<footer>&#xA9 Made by Avijit</footer>
+</html>

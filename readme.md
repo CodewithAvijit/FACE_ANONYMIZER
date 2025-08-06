@@ -34,7 +34,7 @@ Follow these steps to get the project up and running on your local machine.
 
 ### Prerequisites
 
-You'll need **Python 3.x** and `pip` installed.
+You'll need **Python 3.10.11 and `pip` installed.
 
 ### Installation
 
@@ -87,3 +87,5 @@ You'll need **Python 3.x** and `pip` installed.
   * `face/`: Directory for processing and storing data.
   * `src/`: Contains the front-end code for the web interface.
   * `requirements.txt`: Lists all the necessary Python libraries.
+
+Made by Avijit Bhadra

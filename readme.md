@@ -6,8 +6,8 @@ Face Anonymizer
 
 ### Face Anonymizer Preview
 
-![User Interface 1](src/F1.png)  
-![User Interface 2](src/F2.png)
+![User Interface 1](src/F2.png)  
+![User Interface 2](src/F1.png)
 
 
 

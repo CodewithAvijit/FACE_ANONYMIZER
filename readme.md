@@ -41,7 +41,7 @@ You'll need **Python 3.10.11 and `pip` installed.
 1.  **Clone the repository:**
 
     ```sh
-    git clone https://github.com/your-username/face-anonymizer.git
+    git clone https://github.com/CodewithAvijit/FACE_ANONYMIZER.git
     cd face-anonymizer
     ```
 
